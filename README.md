@@ -15,7 +15,7 @@ Registros del miembro superior: para estas pruebas se registraron músculos en r
   
   -*Músculos de la mano*. 
 
-Registros de miembro inferior: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajacion y esfuerzo. 
+Registros de miembro inferior: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajación y esfuerzo. 
 
   -*Pantorrilla*. 
 

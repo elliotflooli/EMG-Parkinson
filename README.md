@@ -9,13 +9,13 @@ Registros del miembro superior: para estas pruebas se registraron músculos en r
   
   -*Bíceps*.
   
-  -Triceps.
+  -*Triceps*.
   
-  -Músculos del antebrazo
+  -*Músculos del antebrazo*.
   
-  -Músculos de la mano. 
+  -*Músculos de la mano*. 
 
 Registros de miembro inferior: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajacion y esfuerzo. 
 
-  -Pantorrilla. 
+  -*Pantorrilla*. 
 

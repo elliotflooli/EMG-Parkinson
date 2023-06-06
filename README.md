@@ -7,7 +7,7 @@ Se elaboraron notebooks de diversos procesamientos de señales de la EP juvenil.
 ### Obtención y visualización de señales electromiográficas en Parkinson.
 ###### Registros del miembro superior: para estas pruebas se registraron músculos en relajación, esfuerzo o con algún ejercicio. 
   
-  -*Bíceps*.
+  -**Bíceps*.
   
   -*Triceps*.
   
@@ -15,7 +15,7 @@ Se elaboraron notebooks de diversos procesamientos de señales de la EP juvenil.
   
   -*Músculos de la mano*. 
 
-##### Registros de miembro inferior: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajación y esfuerzo. 
+###### Registros de miembro inferior: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajación y esfuerzo. 
 
   -*Pantorrilla*. 
 

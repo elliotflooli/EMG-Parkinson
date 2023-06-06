@@ -1,4 +1,4 @@
-# Parkinson-EMG-Analysis
+# Técnicas de Análisis de EMG en la Enfermedad de Parkinson 
 
 #### black	color	beige,	con	su	nombre	completo	en	la	pestaña,	comenzando	por	los
 apellidos,	 así	 como	 la	 digitalización	 de	 la	 documentación	 que	 se	 marca	 con	 (*),	 la

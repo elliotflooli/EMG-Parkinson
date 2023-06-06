@@ -5,7 +5,8 @@ Este repositorio contiene análisis de registros de electromiografía (EMG) de s
 Se elaboraron notebooks de diversos procesamientos de señales de la EP juvenil. La finalidad de la creación de este repositorio es contribuir con registros de la EP y análisis de señales para ampliar el campo de estudio en temas relacionados con la electrofisiología. En este repositorio encontrarás:
 
 ### Obtención y visualización de señales electromiográficas en Parkinson.
-Registros del miembro superior: para estas pruebas se registraron músculos en relajación, esfuerzo o con algún ejercicio. 
+#### Registros del miembro superior:
+para estas pruebas se registraron músculos en relajación, esfuerzo o con algún ejercicio. 
   
   -*Bíceps*.
   
@@ -15,7 +16,8 @@ Registros del miembro superior: para estas pruebas se registraron músculos en r
   
   -*Músculos de la mano*. 
 
-Registros de miembro inferior: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajación y esfuerzo. 
+#### Registros de miembro inferior:
+para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajación y esfuerzo. 
 
   -*Pantorrilla*. 
 

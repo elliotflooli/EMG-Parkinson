@@ -23,9 +23,15 @@ También encontrarás registros de EMG cuando el paciente tiene latentes los est
 
 ## Análisis con filtros
   -*Filtro Butterworth de paso bajo*.
+  
   -*Filtro pasa bajas, pasa altas y pasa bandas*.
+  
   -*Filtro Notch*.
+  
   -*Filtro con filtfilt o lfilter*.
+  
   -*Filtro Mediano*.
+  
   -*Filtro Wiener*.
-  -*Filtro Savitzky Golay*.
+  
+  -*Filtro Savitzky-Golay*.

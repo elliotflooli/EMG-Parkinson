@@ -18,7 +18,7 @@ Se elaboraron notebooks de diversos procesamientos de señales de la EP juvenil.
 **Registros de miembro inferior**: para esta prueba solo se registró en la parte posterior de la pierna, también se registró cuando estaba en relajación y esfuerzo. 
 
   -*Pantorrilla*. 
-
+## 
 También encontrarás registros de EMG cuando el paciente tiene latentes los estímulos producidos por la Enfermedad de Parkinson, debido a que se encontraba bajo los efectos del medicamento promotor de dopamina. Por otro lado, se registraron los músculos cuando el paciente tiene un lapso sin medicamento, entonces, las señales muestran diferencias entre las ***electromiografías con medicamento y sin medicamento***.
 
 ## Análisis con filtros

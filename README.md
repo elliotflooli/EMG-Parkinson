@@ -45,3 +45,6 @@ Se obtuvo la envoltura, rectificación, amplitud máxima, densidad espectral, á
 
 Mediante el análisis espectral de Fourier podemos analizar una serie de tiempo pero en el dominio de la frecuencia, debido a que todos los análisis anteriores se han desarrollado hasta el momento son análisis en el dominio del tiempo. Se obtuvieron espectrogramas de señales significativas.
 
+****En caso de sugerir mejoras o tener preguntas de la elaboración de este proyecto, pueden comunicarse:****
+
+elliotflooli@ciencias.unam.mx

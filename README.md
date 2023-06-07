@@ -39,7 +39,7 @@ También encontrarás registros de EMG cuando el paciente tiene latentes los est
 ## 
 ## Cuantificación y análisis  de señales
 
-Se obtuvo la envoltura, rectificación, amplitud máxima, densidad espectral, área, detección de eventos (cuando inicia un estímulo y cuando termina). 
+Se obtuvo la envoltura, rectificación, amplitud máxima, densidad espectral, área, detección de eventos (cuando inicia y termina un estímulo). 
 ##
 ## Análisis espectral
 

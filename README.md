@@ -36,5 +36,12 @@ También encontrarás registros de EMG cuando el paciente tiene latentes los est
   -*Filtro Wiener*.
   
   -*Filtro Savitzky-Golay*.
-  
+## 
+## Cuantificación y análisis  de señales
+
+Se obtuvo la envoltura, rectificación, amplitud máxima, densidad espectral, área, detección de eventos (cuando inicia un estímulo y cuando termina). 
+##
+## Análisis espectral
+
+Mediante el análisis espectral de Fourier podemos analizar una serie de tiempo pero en el dominio de la frecuencia, debido a que todos los análisis anteriores se han desarrollado hasta el momento son análisis en el dominio del tiempo. Se obtuvieron espectrogramas de señales significativas.
 
